@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: dev
+
+pay.controller.enable: true
