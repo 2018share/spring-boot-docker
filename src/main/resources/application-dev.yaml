@@ -3,3 +3,6 @@ spring:
     active: dev
 
 pay.controller.enable: true
+
+server:
+  port: 8000
